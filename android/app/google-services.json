@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "29940990689",
+    "project_id": "calorias-diarias-i42yke",
+    "storage_bucket": "calorias-diarias-i42yke.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29940990689:android:e2780227854c39cf6c2da0",
+        "android_client_info": {
+          "package_name": "com.carlosdev.caloriasdiarias"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLxWB-rB5V73MBxIz8Sf3h0jSvwPpdHv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
